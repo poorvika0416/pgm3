@@ -1,1 +1,1 @@
-"push and pull operation in local and remote repo"
+"Fetch and rebase"
