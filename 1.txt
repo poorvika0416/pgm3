@@ -1,1 +1,1 @@
-"Fetch and rebase"
+"fetch and rebase operation"
